@@ -58,7 +58,7 @@ It lets you install and launch Abel Tools directly from your iPad.
 - 🍃 leaf blower (V1)
 
 - 📱 Abel Tools Installer  
-  Launch all tools from your phone ⚡
+  Launch all tools from your iPad ⚡
 
   **For more info: Go to achenkunju.com**
 
